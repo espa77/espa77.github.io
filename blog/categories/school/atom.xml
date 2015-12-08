@@ -4,7 +4,7 @@
   <title><![CDATA[Category: school | Ruby v2.2 Octopress Blog]]></title>
   <link href="http://espa77.github.io/blog/categories/school/atom.xml" rel="self"/>
   <link href="http://espa77.github.io/"/>
-  <updated>2015-12-08T08:53:44-05:00</updated>
+  <updated>2015-12-08T09:11:35-05:00</updated>
   <id>http://espa77.github.io/</id>
   <author>
     <name><![CDATA[Ethan Steiner]]></name>
@@ -50,7 +50,7 @@ Pry also aims to be more than an IRB replacement; it is an attempt to bring REPL
 <p>The Pry Project was founded by John Mair, Conrad Irwin, Ryan Fitzgerald, and a healthy number of other contributors. I checked out their individual blogs and learned a few exciting new things.</p>
 
 <ol>
-<li><p>&lsquo;Pry-nav&rsquo; This recent plugin for Pry adds the <code>next</code>, <code>step</code>, and <code>continue</code> commands to Pry. After requiring this gem, you can use Pry as normal, placing <code>binding.pry</code> wherever you want to start your session. The <code>next</code> command will advance execution by one line. I can only imagine how helpful this will be as my code becomes longer and more complex.</p></li>
+<li><p>&lsquo;Pry-nav&rsquo; This 2012 plugin for Pry adds the <code>next</code>, <code>step</code>, and <code>continue</code> commands to Pry. After requiring this gem, you can use Pry as normal, placing <code>binding.pry</code> wherever you want to start your session. The <code>next</code> command will advance execution by one line. I can only imagine how helpful this will be as my code becomes longer and more complex.</p></li>
 <li><p>&lsquo;Pry-remote&rsquo; This allows remote debugging using pry. It sounds incredibly useful, especially with teams that sometimes span the globe. However, I&rsquo;m not sure if I will use this at The Flatiron School.</p></li>
 </ol>
 
