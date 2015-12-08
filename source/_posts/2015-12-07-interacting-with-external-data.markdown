@@ -37,7 +37,7 @@ Here are some examples where I have used pry within our labs to get the tests to
 
 The Pry Project was founded by John Mair, Conrad Irwin, Ryan Fitzgerald, and a healthy number of other contributors. I checked out their individual blogs and learned a few exciting new things.  
 
-1. 'Pry-nav' This recent plugin for Pry adds the `next`, `step`, and `continue` commands to Pry. After requiring this gem, you can use Pry as normal, placing `binding.pry` wherever you want to start your session. The `next` command will advance execution by one line. I can only imagine how helpful this will be as my code becomes longer and more complex.
+1. 'Pry-nav' This 2012 plugin for Pry adds the `next`, `step`, and `continue` commands to Pry. After requiring this gem, you can use Pry as normal, placing `binding.pry` wherever you want to start your session. The `next` command will advance execution by one line. I can only imagine how helpful this will be as my code becomes longer and more complex.
 
 2. 'Pry-remote' This allows remote debugging using pry. It sounds incredibly useful, especially with teams that sometimes span the globe. However, I'm not sure if I will use this at The Flatiron School.
 
